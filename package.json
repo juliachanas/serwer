@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juliachanas/serwer/issues"
   },
-  "homepage": "https://github.com/juliachanas/serwer#readme"
+  "homepage": "https://github.com/juliachanas/serwer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
